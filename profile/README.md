@@ -1,3 +1,6 @@
+![Static Badge](https://img.shields.io/badge/author-javiergs-orange)
+
+
 # CSC 305 — Individual Software Design and Development
 
 Course repositories for **CSC 305: Individual Software Design and Development** at
